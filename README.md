@@ -2,6 +2,7 @@
 
 -Estou aprendendo Programação
 -Js, Html, Css, Python, Visualg, Node e React
+
 -Tenho interesse em trabalhar na área
 
 <div>
