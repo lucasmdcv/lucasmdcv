@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Mendes
 
 -Estou aprendendo Programação
--Js, Html, Css, Python ,Visualg e Node
+-Js, Html, Css, Python, Visualg, Node e React
 -Tenho interesse em trabalhar na área
 
 <div>
