@@ -1,9 +1,9 @@
-### Olá! Eu sou o Lucas Mendes
+### Hi! I'm Lucas Mendes
 
--Estou aprendendo Programação
--Js, Html, Css, Python, Visualg, Node e React
+-I'm updating Programming
+-Js, Html, Css, Python, Visualg, Node and React
 
--Tenho interesse em trabalhar na área
+-I am interested in working in the field
 
 <div>
   <a href="https://github.com/lucasmdcv">
