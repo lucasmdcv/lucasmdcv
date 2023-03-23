@@ -1,9 +1,6 @@
 ### Hi! I'm Lucas Mendes
 
--I'm updating Programming
--Js, Html, Css, Python, Visualg, Node and React
-
--I am interested in working in the field
+I'm learning programming
 
 <div>
   <a href="https://github.com/lucasmdcv">
