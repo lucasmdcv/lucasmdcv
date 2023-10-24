@@ -3,7 +3,7 @@
 I'm learning programming
 
 <div>
-  <a href="https://github.com/lucasmdcv">
+  <a href="https://github.com/lucasmdcv" target="_blank">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmdcv&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
   <img heigth
 </div>
