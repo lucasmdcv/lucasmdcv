@@ -1,5 +1,5 @@
 ### 
-Olá, meu nome é Lucas e estou aprendendo programação.
+Olá, eu sou o Lucas e estou aprendendo programação.
 <br>Estou muito animado para começar minha jornada de aprendizado 
 <br>e estou procurando recursos para me ajudar a aprender. 
 <br>Se você tiver alguma sugestão, por favor, compartilhe comigo!
