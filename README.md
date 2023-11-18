@@ -1,5 +1,5 @@
 
-###  Apresentação simples 
+
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <!--Apresentação e descrição-->
 <div align="center">
@@ -14,10 +14,10 @@
 </div>
 
 <!--Contatos -->
-<div align="center">
+<div style="display: inline-block;  justify-content: center; align-items: center;">
   <a href="https://github.com/lucasmdcv" target="_blank">
 </div>
-<div align="center"> 
+<div style="display: inline-block;  justify-content: center; align-items: center;"> 
   <br>
   <a href="https://www.instagram.com/lucas_mdcv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
@@ -29,7 +29,7 @@
 
 </div>
 ##  Hard Skills
-<div align="center" style="margin-top: 20px;">
+<div  align=" center";" style="margin-top: 20px;">
   <h2>Linguagens que estou estudando</h2>
   
   <div style = "display: inline-block;  justify-content: center; align-items: center; ">
