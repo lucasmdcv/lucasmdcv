@@ -26,8 +26,10 @@
   <a href="https://www.linkedin.com/in/lucas-mendes-631691232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-
 </div>
+<br>
+
+
 ##  Hard Skills
 <div  align=" center";" style="margin-top: 20px;">
   <h2>Linguagens que estou estudando</h2>
