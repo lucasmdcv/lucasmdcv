@@ -56,3 +56,6 @@ HTML. Isso despertou meu interesse por frameworks e agora estou me dedicando aos
 programador Front-end.  
   
 ![GIF animado](./test-typing.gif)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdcv&theme=2077)
