@@ -58,4 +58,4 @@ programador Front-end.
 ![GIF animado](./test-typing.gif)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdcv&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdcv&theme=2077
