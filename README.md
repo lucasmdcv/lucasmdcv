@@ -59,7 +59,7 @@ Além disso, descobri que poderia aplicar minha lógica de programação a outra
 HTML. Isso despertou meu interesse por frameworks e agora estou me dedicando aos estudos para me tornar um  
 programador Front-end.  
   
-![GIF animado](./test-typing.gif)
+![Gift](https://tenor.com/embed.js")
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdcv&theme=2077).
