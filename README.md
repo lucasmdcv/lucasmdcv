@@ -32,7 +32,7 @@ Linguagens que estou estudando
 Frameworks que estou estudando
 
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/React-0080ff?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/React-0080ff?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/Flutter-0080ff?style=for-the-badge&logo=flutter&logoColor=black)
 
   
   
@@ -41,6 +41,10 @@ Sobre mim
 ---------
 
 #### 
+
+Proprietário do Site 
+
+www.parzivalbr.com
 
 “A programação é uma arte, porque ela aplica técnicas criativas para resolver problemas.” - Paul Graham
 
