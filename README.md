@@ -1,5 +1,11 @@
  
 
+
+![473167602_3847785015438285_7389571439792279802_n](https://github.com/user-attachments/assets/fef12489-bf02-44c7-bcf9-888b3cbb5828)
+
+
+
+
 Olá, eu sou o Lucas e estou aprendendo programação.
 ---------------------------------------------------
 
@@ -42,6 +48,9 @@ Sobre mim
 
 #### 
 
+![giphy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFnZTQ3MjkwNjhudWxsYXlsOTU3eGJlYXh6b3BuY3piNmNsNm1oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+
 Proprietário do Site 
 
 www.parzivalbr.com
@@ -59,7 +68,8 @@ Além disso, descobri que poderia aplicar minha lógica de programação a outra
 HTML. Isso despertou meu interesse por frameworks e agora estou me dedicando aos estudos para me tornar um  
 programador Front-end.  
   
-![Gift](https://tenor.com/embed.js")
+![giphy](https://github.com/user-attachments/assets/b68a19c6-eb6d-40c1-a588-0e8d0f54ee77)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdcv&theme=2077).
