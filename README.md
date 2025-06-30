@@ -15,6 +15,10 @@ no meu desenvolvimento. Se você tiver alguma sugestão,
 ficarei grato se puder compartilhá-la comigo!  
 
 
+Portfólio Atualizado :    https://portfolio-do-lucas.netlify.app/
+
+
+
   ![473167602_3847785015438285_7389571439792279802_n](https://github.com/user-attachments/assets/fef12489-bf02-44c7-bcf9-888b3cbb5828)
 
 Redes Sociais
@@ -73,3 +77,9 @@ programador Front-end.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdcv&theme=2077).
+
+
+
+
+
+Na reta final do curso de ADS, finalmente estou no último semestre  ;-;
