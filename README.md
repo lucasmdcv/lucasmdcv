@@ -55,9 +55,7 @@ Sobre mim
 ![giphy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFnZTQ3MjkwNjhudWxsYXlsOTU3eGJlYXh6b3BuY3piNmNsNm1oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
-Proprietário do Site 
 
-www.parzivalbr.com
 
 “A programação é uma arte, porque ela aplica técnicas criativas para resolver problemas.” - Paul Graham
 
