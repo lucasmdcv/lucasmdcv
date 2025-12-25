@@ -15,11 +15,11 @@ no meu desenvolvimento. Se você tiver alguma sugestão,
 ficarei grato se puder compartilhá-la comigo!  
 
 
-Portfólio Atualizado :    https://portfolio-do-lucas.netlify.app/
+Portfólio Atualizado :    
+ https://portfolio-do-lucas.netlify.app/
 
 
 
-  ![473167602_3847785015438285_7389571439792279802_n](https://github.com/user-attachments/assets/fef12489-bf02-44c7-bcf9-888b3cbb5828)
 
 Redes Sociais
 -------------
@@ -34,7 +34,7 @@ Hard Skills
 Linguagens que estou estudando
 
 
-![html5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-D2691E?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScrip](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=black)
+![html5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-D2691E?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScrip](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=black) ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=Java&logoColor=orange)
 
   
   
@@ -69,8 +69,9 @@ Python.
 Além disso, descobri que poderia aplicar minha lógica de programação a outra linguagem de marcação de texto, o  
 HTML. Isso despertou meu interesse por frameworks e agora estou me dedicando aos estudos para me tornar um  
 programador Front-end.  
+
   
-![giphy](https://github.com/user-attachments/assets/b68a19c6-eb6d-40c1-a588-0e8d0f54ee77)
+![giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ6NHZkdTkzM2JqYjF3eWtjMnd4cjRqdnRqdDI1eDdmb2RtNThpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 
 
 
