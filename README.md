@@ -31,6 +31,18 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** (UniAmérica/Descompl
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
+### 🛠️ Especialidades e Projetos Maker
+Automação e Web Scraping
+Desenvolvimento de scripts de automação utilizando Selenium para coleta de dados e produtividade.
+
+Conhecimento em análise de redes e segurança com Kali Linux.
+
+Manufatura Aditiva (Impressão 3D)
+Operação e manutenção de hardware (troca de termistores, calibração de mesa).
+
+Experiência com fatiadores e pós-processamento de peças (acabamento com Durepoxi e pintura).
+
+Projeto em destaque: Impressão e finalização de um Baby Deadpool de 30cm.
 
 ## 🌐 Portfólio e Projetos
 🔗 [**Acesse meu Portfólio Atualizado**](https://portfolio-do-lucas.netlify.app/)
