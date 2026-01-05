@@ -49,6 +49,7 @@ Projeto em destaque: Impressão e finalização de um Baby Deadpool de 30cm.
 
 ### Alguns Projetos:
 - [Legado de Hogwarts](https://legadodehogwarts.netlify.app/)
+- [Vought-international](https://vought-international-lucasmdcv.netlify.app/)
 - [Calculadora 3D em Flutter](https://github.com/lucasmdcv/Calculadora3D)
 
 ---
