@@ -74,3 +74,28 @@ Embora minha trajetória profissional tenha passado por setores de produção e 
 - 🎓 **Formação:** Concluí em 2025 o curso de Análise e Desenvolvimento de Sistemas.
 - 💡 **Evolução:** Comecei com a lógica no Portugol, passei pelo Python e hoje foco em tecnologias modernas como **Flutter**, **Java** e **C#**.
 - 🎯 **Objetivo:** Atualmente busco minha primeira oportunidade oficial como Desenvolvedor Júnior, onde eu possa aplicar meu conhecimento em resolução de problemas e automação.
+
+
+---
+
+## 🧠 Conhecimentos Técnicos Detalhados
+
+#### **📱 Mobile & Java**
+* **Lógica OO:** Domínio de Orientação a Objetos (Classes, Atributos e Métodos) em Java.
+* **Flutter & Dart:** Desenvolvimento de apps multiplataforma com foco em interfaces responsivas.
+* **Android:** Experiência em migração de projetos e arquitetura mobile.
+
+#### **🤖 Automação & Python**
+* **Web Scraping:** Criação de robôs com **Selenium** para automação de tarefas e coleta de dados.
+* **Scripts:** Desenvolvimento de ferramentas para otimização de processos repetitivos.
+* **Data Science:** Noções de manipulação de dados e lógica voltada para Machine Learning.
+
+#### **🎮 C# & Back-end**
+* **Game Dev:** Criação de scripts de movimentação e lógica de jogo na engine **Unity**.
+* **Sistemas:** Desenvolvimento de aplicações estruturadas e lógica de back-end.
+
+#### **💻 Web Frontend**
+* **Core:** HTML5 semântico e estilização moderna com CSS3 (Flexbox/Grid).
+* **Interatividade:** JavaScript (ES6+) para manipulação do DOM e integração com APIs.
+
+---
