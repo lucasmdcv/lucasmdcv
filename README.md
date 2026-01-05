@@ -66,3 +66,11 @@ Projeto em destaque: Impressão e finalização de um Baby Deadpool de 30cm.
 ---
 
 > "A programação é uma arte, porque ela aplica técnicas criativas para resolver problemas." – Paul Graham
+
+
+## 🛤 Minha Jornada
+Embora minha trajetória profissional tenha passado por setores de produção e logística, venho me dedicando intensamente à programação desde antes de ingressar na faculdade. 
+
+- 🎓 **Formação:** Concluí em 2025 o curso de Análise e Desenvolvimento de Sistemas.
+- 💡 **Evolução:** Comecei com a lógica no Portugol, passei pelo Python e hoje foco em tecnologias modernas como **Flutter**, **Java** e **C#**.
+- 🎯 **Objetivo:** Atualmente busco minha primeira oportunidade oficial como Desenvolvedor Júnior, onde eu possa aplicar meu conhecimento em resolução de problemas e automação.
