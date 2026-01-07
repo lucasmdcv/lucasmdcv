@@ -44,8 +44,8 @@ Experiência com fatiadores e pós-processamento de peças (acabamento com Durep
 
 Projeto em destaque: Impressão e finalização de um Baby Deadpool de 30cm.
 
-## 🌐 Portfólio e Projetos
-🔗 [**Acesse meu Portfólio Atualizado**](parzivalbr.com)
+## 🌐 Acesse  meu Site 
+🔗 [**site**](parzivalbr.com)
 
 ### Alguns Projetos:
 - [Legado de Hogwarts](https://legadodehogwarts.netlify.app/)
