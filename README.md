@@ -10,7 +10,6 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** (UniAmérica/Descompl
 - 🎓 **Formação:** Graduado em ADS (Nov/2025).
 - 🛠️ **Interesses atuais:** Desenvolvimento Mobile com **Flutter/Dart**, automação com **Python (Selenium)** e sistemas com **Java** e **C#**.
 - 🖨️ **Maker:** Apaixonado por impressão 3D (operando uma Elegoo Neptune 3 Pro).
-- 🎲 **Hobbies:** Karuta, ping-pong e maratonar séries como *Person of Interest*.
 
 ---
 
